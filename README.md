@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=![다운로드 (1)](https://github.com/user-attachments/assets/1b59abb0-f37b-476c-ad93-6af0e14314bf) style="Size: 100px;" />
+  <img src="https://github.com/user-attachments/assets/1b59abb0-f37b-476c-ad93-6af0e14314bf" style="Size: 100px;" />
 </div>
 
 <br/>
