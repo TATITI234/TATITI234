@@ -1,8 +1,10 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/3ac38cbb-4c9b-4d86-96fe-9ce79e636ab8" style="Size: 100px;" />
+  <img src=![다운로드 (1)](https://github.com/user-attachments/assets/1b59abb0-f37b-476c-ad93-6af0e14314bf) style="Size: 100px;" />
 </div>
 
 <br/>
+![다운로드 (1)](https://github.com/user-attachments/assets/1b59abb0-f37b-476c-ad93-6af0e14314bf)
+
 
 <h2 align="center">🎮 Welcome to Wonhee's GitHub! 👨‍💻</h2>
 <p align="center">성실하고 지속적으로 성장한 개발자</p>
